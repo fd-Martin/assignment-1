@@ -7,7 +7,7 @@
 
 /* header-section-start */
 .header-container {
-    background-image: url(images/banner/banner3.png);
+    background-image: url("images/banner/banner3.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center top;
